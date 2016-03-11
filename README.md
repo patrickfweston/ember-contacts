@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contacts
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,6 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# ember-contacts
+>>>>>>> 2d248a5d229705378fb031cf07ece30cf826aec6
