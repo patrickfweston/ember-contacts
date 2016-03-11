@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Contacts
 
 This README outlines the details of collaborating on this Ember application.
@@ -54,4 +53,3 @@ Specify what it takes to deploy your app.
 
 =======
 # ember-contacts
->>>>>>> 2d248a5d229705378fb031cf07ece30cf826aec6
