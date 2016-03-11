@@ -1,0 +1,13 @@
+<h2>{{title}}</h2>
+
+<div class="contacts">
+{{#each contacts as |contact|}}
+  <div class="contact">
+    <h1>{{contact.name}}</h1>
+    <h3>Phone Number:</h3>
+    <h2>{{contact.phone}}</h2>
+    <h3>Email:</h3>
+    <h2>{{contact.email}}</h2>
+  </div>
+{{/each}}
+</div>
