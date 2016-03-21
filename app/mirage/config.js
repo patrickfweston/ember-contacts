@@ -6,24 +6,24 @@ export default function() {
         id: 1,
         attributes: {
           name: 'Patrick Weston',
-          phone: '7402442738',
-          email: 'patrickfweston@gmail.com',
+          phone: '8318675309',
+          email: 'patrick@testemail.com',
         }
       }, {
         type: 'contacts',
         id: 2,
         attributes: {
           name: 'Randy Weston',
-          phone: '6147789205',
-          email: 'rweston@oapse.org',
+          phone: '8318675309',
+          email: 'randy@testemail.com',
         }
       }, {
         type: 'contacts',
         id: 3,
         attributes: {
           name: 'Katie Scovic',
-          phone: '8474527860',
-          email: 'katiescovic@u.northwestern.edu',
+          phone: '8318675309',
+          email: 'katie@testemail.com',
         }
       }]
     };
